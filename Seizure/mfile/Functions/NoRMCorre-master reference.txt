@@ -1,0 +1,9 @@
+NoRMCorre-master codes download from https://github.com/flatironinstitute/NoRMCorre
+
+References
+
+[1] Eftychios A. Pnevmatikakis and Andrea Giovannucci, NoRMCorre: An online algorithm for piecewise rigid motion correction of calcium imaging data, Journal of Neuroscience Methods, vol. 291, pp 83-94, 2017; doi: https://doi.org/10.1016/j.jneumeth.2017.07.031
+
+[2] Guizar-Sicairos, M., Thurman, S. T., & Fienup, J. R. (2008). Efficient subpixel image registration algorithms. Optics letters, 33(2), 156-158. Matlab implementation available here.
+
+
