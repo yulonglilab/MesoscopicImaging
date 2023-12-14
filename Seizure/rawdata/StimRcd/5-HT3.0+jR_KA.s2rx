@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CEDResources App="Spike2" AppVer="818">
+	<DocTime>
+		<View>
+			<WPlace flags="2" showc="3" minx="-1" miny="-1" maxx="-8" maxy="-31" t="104" b="536" l="104" r="1320"/>
+			<Font hgt="-11" hthou="-115" wgt="400" paf="16" fnam="Times New Roman"/>
+			<Chan Chan="30" DMode="9" DWidth="-9.999999999999999e-6" DTrig="65535" DBoth="1" DHLine="1" Ax="0" AdcAxMax="1" FreqAxMax="2" AxType="1" ChType="5" PriCol="1" BackOv="0"/>
+			<Chan Chan="3" DMode="10" DWidth="-9.999999999999999e-6" DTrig="65535" DBoth="1" DHLine="1" Ax="0" AdcAxMax="1" FreqAxMax="200" AxType="1" ChType="4" PriCol="1" BackOv="0"/>
+			<Chan Chan="2" DMode="11" DWidth="-9.999999999999999e-6" DDSize="-1" AxMin="1.1723251342773438" AxMax="1.8405227661132812" AdcAxMin="1.1723251342773438" AdcAxMax="1.8405227661132812" FreqAxMax="50.00000000000001" AxType="1" ChType="1" PriCol="1" BackOv="0"/>
+			<Chan Chan="1" DMode="11" DWidth="-9.999999999999999e-6" DDSize="-1" AxMin="-50000" AxMax="50000" AdcAxMin="-50000" AdcAxMax="50000" FreqAxMax="500" AxType="1" ChType="1" PriCol="1" BackOv="0"/>
+			<Chan Chan="0" DMode="11" DWidth="-9.999999999999999e-6" DDSize="-1" AxMin="-1506.9808959960938" AxMax="1001.1520385742188" AdcAxMin="-1506.9808959960938" AdcAxMax="1001.1520385742188" FreqAxMax="500" AxType="1" ChType="1" PriCol="1" BackOv="0"/>
+			<XInfo Right="200.32825999999997" XAxSmall="5" CRBack="0" VCLabMode="2" HCLabMode="1" VCCount="1">
+				<VCur id="0" LabMode="2" LabPos="0.2" Num="0"/>
+			</XInfo>
+			<ChOrder Chans="5">
+				<c id="0" Chan="30"/>
+				<c id="1" Chan="3"/>
+				<c id="2" Chan="2"/>
+				<c id="3" Chan="1"/>
+				<c id="4"/>
+			</ChOrder>
+			<CursVals XZero="0" YZero="0"/>
+			<CursRegs XZero="0" YZero="0"/>
+			<OvDraw3d YProp="0.5" XScale="0.5" YScale="0.5"/>
+		</View>
+	</DocTime>
+</CEDResources>
